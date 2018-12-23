@@ -1,0 +1,5 @@
+[1] Bienvenue dans le Battle Royale,
+Vous allez etre parachuter, choisissez votre spawn :
+
+[2]: Les Tours Tiltées
+[3]: Une montagne random

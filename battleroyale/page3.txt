@@ -1,0 +1,5 @@
+[3] Vous avez choisis d'atterrir sur une montagne, 
+Vous pouvez :
+
+[6]: Ouvrir le coffre que vous avez aperçu en bas de la montagne en atterrissant
+[7]: Ramasser les quelques armes que vous trouvez au sol

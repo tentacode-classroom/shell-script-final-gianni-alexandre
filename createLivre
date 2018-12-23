@@ -1,0 +1,60 @@
+#!/bin/bash
+
+rm -rf battleroyale
+
+mkdir battleroyale
+touch battleroyale/page{1..16}.txt
+
+cd battleroyale
+
+echo "[1] Bienvenue dans le Battle Royale,
+Vous allez etre parachuter, choisissez votre spawn :
+
+[2]: Les Tours Tiltées
+[3]: Une montagne random" > page1.txt
+
+echo "[2] Vous avez choisis d'atterrir aux Tours Tiltées,
+Vous pouvez :
+
+[4]: Ramasser une arme rapidement et rusher les ennemis 
+[5]: Prendre le temps de looter pour trouver de bonnes armes et du shield" > page2.txt
+
+echo "[3] Vous avez choisis d'atterrir sur une montagne, 
+Vous pouvez :
+
+[6]: Ouvrir le coffre que vous avez aperçu en bas de la montagne en atterrissant
+[7]: Ramasser les quelques armes que vous trouvez au sol" > page3.txt
+
+echo "[4] Vous trouvez rapidement une arme et courrez comme un attardé sur les ennemis,
+ceux-ci vous attendaient avec un lance-roquette,
+Vous mourez pitoyablement" > page4.txt
+
+echo "[5] Vous prenez le temps de looter, vous trouvez de quoi avoir 100 de shield,
+lorsque vous rencontrez un ennemis, deux choix s'offrent a vous :
+
+[10]: Vous contruisez pour prendre la hauteur sur l'adversaire
+[11]: Vous vous refugiez dans le batiment le plus proche" > page5.txt
+
+echo "[6] Vous vous dirigez vers le coffre en bas de la montagne,
+malheureusement vous glissez et vous mourrez d'une terrible chute" > page6.txt
+
+echo "[7] Vous recuperez les armes au sol, qui semble de mauvaise qualité,
+ainsi que dequoi vous mettre 50 de shield, maintenant vous devez choisir 
+
+[14]: Vous dirigez vers la prochaine zone tout en restant a ses bordures
+[15]: Vous dirigez vers le Carrefour des Dechet pour trouver de meilleures armes" > page7.txt
+
+echo "[10] Vous commencez a batir une construction,
+malheureusement, votre adversaire semble bien plus rapide et prend l'ascendant,
+Vous avez été tué par GOTAGA" > page10.txt
+
+echo "[11] Vous allez vous cacher dans le batiment le plus proche et posez un piège au dessus de l'entrée,
+l'ennemis vous pousuit et meurs du piège que vous avez deposé.
+Cet ennemi etait le dernier en vie." > page11.txt
+
+echo "[14]: Vous suivez les differentes zones, tout en restant discret pour ne pas attirer l'attention des adversaires,
+losque vous arrivez dans le dos du dernier joueur et le tuez avec un fusil a pompe" > page14.txt
+
+echo "[15]: Vous êtes en train de ramasser de meilleures armes lorsque, la zone arrive et vous elimine" > page15.txt
+
+echo "[VICTOIRE] Vous êtes parvenus a survivre toute la partie et finissez TOP#1" > page16.txt

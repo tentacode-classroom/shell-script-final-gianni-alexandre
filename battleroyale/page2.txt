@@ -1,0 +1,5 @@
+[2] Vous avez choisis d'atterrir aux Tours Tiltées,
+Vous pouvez :
+
+[4]: Ramasser une arme rapidement et rusher les ennemis 
+[5]: Prendre le temps de looter pour trouver de bonnes armes et du shield

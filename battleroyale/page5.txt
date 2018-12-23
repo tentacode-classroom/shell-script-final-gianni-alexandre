@@ -1,0 +1,5 @@
+[5] Vous prenez le temps de looter, vous trouvez de quoi avoir 100 de shield,
+lorsque vous rencontrez un ennemis, deux choix s'offrent a vous :
+
+[10]: Vous contruisez pour prendre la hauteur sur l'adversaire
+[11]: Vous vous refugiez dans le batiment le plus proche
