@@ -1,5 +1,0 @@
-[7] Vous recuperez les armes au sol, qui semble de mauvaise qualité,
-ainsi que dequoi vous mettre 50 de shield, maintenant vous devez choisir 
-
-[14]: Vous dirigez vers la prochaine zone tout en restant a ses bordures
-[15]: Vous dirigez vers le Carrefour des Dechet pour trouver de meilleures armes
